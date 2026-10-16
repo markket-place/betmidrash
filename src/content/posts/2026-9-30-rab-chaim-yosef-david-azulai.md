@@ -2,7 +2,7 @@
 title: "Rabbi Chaim Yosef David Azulai: The Chida"
 pubDate: 2026-10-01
 categories: ["Intro"]
-description: "Why Study This Book?"
+description: "חיים יוסף דוד אזולאי — החיד״א"
 longDescription: "Discover the life, teachers, travels, and enduring works of the Chida, one of the great Sephardic rabbis of the eighteenth century"
 slug: rab-chaim-yosef-david-azulai
 ---
