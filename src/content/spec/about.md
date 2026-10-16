@@ -1,60 +1,84 @@
 ---
-title: Yesharim, Ancient wisdom, Living practice
+title: "About: A Living Connection to the Chida"
+description: "Beit Midrash HaChidah continues to honor his name in North Hollywood, bringing people together through Torah study, prayer, and Shabbat and holiday meals"
 pubDate: 2026-10-11
 ---
 
-# About
+### A Living Connection to the Chida
 
-מוסר · דרך · מעשה
+Bet Midrash HaChidah takes its name from Rabbi Chaim Yosef David Azulai (1724–1806/1807), the renowned Sephardic Torah scholar known as the Chida. Born in Jerusalem, the Chida became celebrated for his halachic writings, his travels among Jewish communities, and _Shem HaGedolim_, his landmark work documenting Jewish scholars and their books
 
-Musar · Derekh · Ma'aseh
+Today, Beit Midrash HaChidah continues to honor his name in North Hollywood, bringing people together through Torah study, prayer, and Shabbat and holiday meals
 
-A library of Jewish ethical thought, practical reflection, and learning put to work in the world
+## A small community. A warm welcome
 
-ללמוד לחשוב לעשות
+![Bet Midrash HaChidah NOHO](/images/bet-midrash-chidah-header.png)
 
-תיקון
+[Get Directions](https://maps.app.goo.gl/9yfNwAxk7vUerr6c7)
 
-TIKKUN - Repair
+## Weekly Schedule
 
-道 DŌ / TAO
+Join us throughout the week for prayer, Torah study, and time together
 
-A cross-cultural symbol for a path or discipline
+### Sunday
 
-마음 MAEUM
+**8:45 PM — Torah Class**
 
-Heart, mind, or inner life
+Come learn Torah together and spend time with the community
 
-# About This Library
+### Monday & Thursday
 
-This is an open library exploring Jewish ethical traditions and their relevance to contemporary life
+**7:45 AM — Shacharit Minyan**
 
-At its heart is _Musar_: the practice of examining our character, refining our conduct, and bringing what we learn into the way we live. From classical works like _Mesilat Yesharim_ and _Chovot HaLevavot_ to the teachings of the Rambam, Rebbe Nachman, Sephardic sages, and contemporary thinkers, this library explores the many ways wisdom can help us become more attentive, generous, courageous, and responsible
+Morning prayers, Torah reading, breakfast, and learning together until 10:00 AM
 
-### Beyond the page
+### Friday Evening
 
-Learning is only the beginning. What does watchfulness mean in our relationships? How can we cultivate initiative rather than remain stuck in good intentions? What can ancient teachings offer someone navigating grief, searching for a livelihood, rebuilding their life, or trying to contribute to their community?
+**Shabbat Dinner**
 
-We explore these questions through original sources, translations, commentary, connections across traditions, practical exercises, and reflections on everyday life
+Join us for a Shabbat meal at candle-lighting time. The time varies each week, so please confirm the schedule in advance
 
-The goal isn't simply to know more, but to put what we learn into practice: helping others, creating art, strengthening communities, participating in civic life, and repairing what we can
+### Shabbat Morning
 
-### An open conversation
+**8:45 AM — Shacharit**
 
-Jewish wisdom belongs to a rich and diverse tradition. Readers arrive with different backgrounds, beliefs, and experiences, and we welcome thoughtful engagement across those differences.
+Morning prayers followed by a meal and time together as a community
 
-We aim to represent our sources honestly, distinguish traditional teachings from contemporary interpretations, and make room for questions, disagreements, and new perspectives.
+_Schedules can change, particularly around holidays. If you're visiting for the first time, please confirm the details before coming_
 
-This is a growing, open-source project. The library begins with _Mesilat Yesharim_, but its paths will extend across books, ethical qualities, life experiences, weekly parashah reflections, and ideas from the wider world.
+## Come Learn, Pray & Connect
 
-### Contribute
+We're building a warm, welcoming community where everyone can join, explore Torah, share meals, make friends, and help sustain a growing minyan
 
-Have a source to recommend, an interpretation to share, or an idea for putting an ethical teaching into practice? You're welcome to contribute an article, suggest an improvement, or help expand the library
+Every person who joins makes a difference
 
-The project was initiated by Daveed, a Jewish Colombian artist and engineer who studied in Colombia and Jerusalem and continues learning at the Beit Midrash at Chazak LA in North Hollywood
+## Visit Us
 
-**Read a little. Think honestly. Do some good.**
+**Bet Midrash HaHidah**
+North Hollywood / Valley Village, Los Angeles, California
 
-### Community
+- **Address:** 6208 Goodland Ave, North Hollywood, CA 91606
+- **Phone:** 818 471 9146
+- **Email:** hachidah@gmail.com
 
-Learn about [Jewish Life in NOHO](/noho/)
+[Find us on Google Maps](https://maps.app.goo.gl/9yfNwAxk7vUerr6c7)
+
+![Bet Midrash HaChidah NOHO](/images/bet-midrash-chidah-2.png)
+
+## Nearby Mikveh
+
+### Adas Yesurun Mikvah
+
+For those looking for a nearby mikveh, Adas Yesurun Mikvah is located in North Hollywood
+
+Visit the official listing for contact details, appointment arrangements, and current information
+
+[Adas Yesurun Mikvah — Details & Contact](https://mikvah.org/mikvaos/71/ca/north-hollywood/adas-yesurun-mikvah)
+
+Please contact the mikvah directly before visiting to confirm arrangements
+
+## Help Us Grow
+
+A community grows when people show up, learn together, share meals, and look out for one another
+
+Whether you live nearby, are new to Los Angeles, or are looking for a friendly Moroccan Sephardic community, come say hello. Join us for a minyan, a class, or a meal, and help us build something beautiful together

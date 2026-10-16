@@ -33,6 +33,7 @@ const { page } = Astro.props
       ))
     }
   </section>
+
   <Pagination
     showLeft={Boolean(page.url.prev)}
     leftTitle={t('prev')}
@@ -43,4 +44,94 @@ const { page } = Astro.props
     currentPage={page.currentPage}
     totalPage={page.lastPage}
   />
+
+  <section class="mx-auto max-w-5xl px-5 py-16 sm:px-8">
+    <div class="mb-10 max-w-2xl">
+      <p class="mb-3 text-sm font-semibold uppercase tracking-[0.2em] text-amber-700">Join us</p>
+      <h2 class="text-3xl font-semibold tracking-tight sm:text-4xl">Weekly Schedule</h2>
+      <p class="mt-4 text-base leading-7 sm:text-lg">
+        Join us throughout the week for prayer, Torah study, and time together.
+      </p>
+    </div>
+
+    <div class="grid gap-4 sm:grid-cols-2">
+      <article class="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm transition-shadow hover:shadow-md">
+        <p class="text-sm font-medium text-amber-700">Sunday</p>
+        <h3 class="mt-2 text-xl font-semibold text-slate-900">Torah Class</h3>
+        <p class="mt-3 text-sm font-medium text-slate-500">8:45 PM</p>
+      </article>
+
+      <article class="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm transition-shadow hover:shadow-md">
+        <p class="text-sm font-medium text-amber-700">Monday & Thursday</p>
+        <h3 class="mt-2 text-xl font-semibold text-slate-900">Shacharit Minyan</h3>
+        <p class="mt-3 text-sm font-medium text-slate-500">7:45 AM – 10:00 AM</p>
+        <p class="mt-3 leading-6 text-slate-600">Prayer, Torah reading, breakfast, and learning together.</p>
+      </article>
+
+      <article class="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm transition-shadow hover:shadow-md">
+        <p class="text-sm font-medium text-amber-700">Friday Evening</p>
+        <h3 class="mt-2 text-xl font-semibold text-slate-900">Kabbalat Shabbat</h3>
+        <p class="mt-3 leading-6 text-slate-600">Welcome Shabbat with prayer and a community dinner.</p>
+        <p class="mt-3 text-sm text-slate-500">Dinner time varies with candle lighting.</p>
+      </article>
+
+      <article class="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm transition-shadow hover:shadow-md">
+        <p class="text-sm font-medium text-amber-700">Shabbat Morning</p>
+        <h3 class="mt-2 text-xl font-semibold text-slate-900">Shacharit & Community Meal</h3>
+        <p class="mt-3 text-sm font-medium text-slate-500">8:45 AM</p>
+        <p class="mt-3 leading-6 text-slate-600">Join us for morning prayers and time together over lunch.</p>
+      </article>
+    </div>
+
+    <p class="mt-6 text-sm leading-6">Schedule may vary on holidays. Please confirm details before your first visit.</p>
+  </section>
+
+  <section class="mx-auto max-w-5xl px-5 py-16 sm:px-8">
+    <div class="grid gap-8 overflow-hidden rounded-3xl border border-slate-200 bg-white md:grid-cols-2">
+      <div class="p-7 sm:p-10">
+        <p class="mb-3 text-sm font-semibold uppercase tracking-[0.2em] text-amber-700">Come visit</p>
+
+        <h2 class="text-3xl font-semibold tracking-tight text-slate-900">Find Our Bet Midrash</h2>
+
+        <p class="mt-4 leading-7 text-slate-600">
+          We welcome visitors, neighbors, and anyone looking to join us for prayer, Torah study, and community.
+        </p>
+
+        <div class="mt-6 space-y-4">
+          <div>
+            <h3 class="font-semibold text-slate-900">Location</h3>
+            <p class="mt-1 leading-6 text-slate-600">North Hollywood, California</p>
+          </div>
+
+          <div>
+            <h3 class="font-semibold text-slate-900">Before your visit</h3>
+            <p class="mt-1 leading-6 text-slate-600">
+              Please contact the community to confirm service times, holiday schedules, and Shabbat meal arrangements.
+            </p>
+          </div>
+        </div>
+
+        <a
+          href="https://maps.app.goo.gl/9yfNwAxk7vUerr6c7"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="mt-8 inline-flex items-center justify-center rounded-xl bg-slate-900 px-5 py-3 font-medium text-white transition hover:bg-slate-700"
+        >
+          Get Directions ↗
+        </a>
+      </div>
+
+      <div class="flex min-h-64 flex-col justify-center bg-amber-50 p-7 sm:p-10">
+        <p class="text-sm font-semibold uppercase tracking-wider text-amber-800">בית מדרש החיד״א</p>
+
+        <h3 class="mt-3 text-2xl font-semibold text-slate-900">Bet Midrash HaChidah</h3>
+
+        <p class="mt-3 leading-7 text-slate-600">
+          A growing Moroccan Sephardic community rooted in Torah, tefillah, and the warmth of gathering together.
+        </p>
+
+        <p class="mt-6 text-sm leading-6 text-slate-500">North Hollywood · Los Angeles, California</p>
+      </div>
+    </div>
+  </section>
 </LayoutDefault>
