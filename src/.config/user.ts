@@ -24,11 +24,14 @@ export const userConfig: Partial<UserConfig> = {
         name: 'About',
         href: '/about',
       },
+      {
+        name: 'Support',
+        href: '/about/support',
+      },
     ],
     footer: [
       '© %year <a href="%website">%author</a>',
       'A Sephardic community in North Hollywood, California',
-      'Published with <a target="_blank" rel="noopener noreferrer" href="https://astro.build/">Astro</a>',
     ],
   },
   appearance: {
