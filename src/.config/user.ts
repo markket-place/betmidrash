@@ -24,6 +24,10 @@ export const userConfig: Partial<UserConfig> = {
         name: 'About',
         href: '/about',
       },
+      {
+        name: 'Support',
+        href: '/about/support',
+      },
     ],
     footer: [
       '© %year <a href="%website">%author</a>',

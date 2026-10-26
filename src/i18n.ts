@@ -7,6 +7,7 @@ export const LANGUAGES = {
     Tags: 'תגיות · Tags',
     About: 'אודות · About',
     Links: 'קישורים · Links',
+    Support: 'תרומות · Support',
 
     posted_at: ' ב־',
     updated_at: ' ב־ ',
