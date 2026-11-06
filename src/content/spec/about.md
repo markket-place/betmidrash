@@ -22,9 +22,9 @@ Join us throughout the week for prayer, Torah study, and time together
 
 ### Sunday
 
-**8:45 PM — Torah Class**
+**8:00 PM — Torah Class**
 
-Come learn Torah together and spend time with the community
+Come learn from esteemed Rab Chafuta
 
 ### Monday & Thursday
 
@@ -37,6 +37,8 @@ Morning prayers, Torah reading, breakfast, and learning together until 10:00 AM
 **Shabbat Dinner**
 
 Join us for a Shabbat meal at candle-lighting time. The time varies each week, so please confirm the schedule in advance
+
+~ Nov 6 2026, starting at 4:40 PM
 
 ### Shabbat Morning
 
